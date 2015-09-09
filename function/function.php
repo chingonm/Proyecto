@@ -58,9 +58,9 @@
           </div>
           <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-              <li class="active"><a href="#">Inicio</a></li>
-              <li><a href="#">¿Que es?</a></li>
-              <li><a href="#">Galeria</a></li>
+              <li class="active"><a href="home.php">Inicio</a></li>
+              <li><a href="about.php">¿Que es?</a></li>
+              <li><a href="gallery.php">Galeria</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
