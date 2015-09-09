@@ -1,19 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link href="../css/estilos.css" rel="stylesheet" type="text/css" />
-<link href="../css/general.css" rel="stylesheet" type="text/css" />
-</head>
-<body>
-
 <?php 
 require('../function/function.php');
-barraPrincipal();// hacer que funcione la función php en este documento
+arriba();
 ?>
-
-
-
-<div class="container">
     <div class="row">
       <div class="col-md-12 col-sm-12 col-xs-12">
         <div class="about_us">
@@ -51,6 +39,6 @@ barraPrincipal();// hacer que funcione la función php en este documento
         </div>
       </div>
     </div>
-  </div>
-</body>
-</html>
+<?php 
+abajo();
+?>
