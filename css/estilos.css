@@ -1,0 +1,54 @@
+div.about_us blockquote {
+  font-size: 16px;
+  font-style: normal;
+  font-family: sans-serif;
+  lighting-color: #32BFB5;
+  word-spacing: 1px;
+  text-align: justify;
+}
+
+div.about_us blockquote footer {
+  margin-top: 15px;
+}
+
+div.about_us blockquote h2 {
+  margin-top: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  color: #333;
+  margin-bottom: 5px;
+  font-size: 40px;
+  text-align: left;
+}
+
+.abold {
+  font-size: 20px;
+  border: 1px solid rgba(128, 128, 128, 0.3);
+  border-radius: 6px;
+  padding: 2px 5px;
+  text-transform: capitalize;
+}
+
+.asub {
+  padding: 2px 15px;
+  color: #555;
+  font-size: 17px;
+  text-decoration: underline;
+  border-radius: 5px;
+}
+
+.aans {
+  padding: 2px 15px;
+  color: #555;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+.ach {
+  padding: 2px 20px;
+}
+
+.aimg {
+  width: 158px;
+}
+/* Ricardo was here :); */
