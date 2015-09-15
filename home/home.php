@@ -1,4 +1,4 @@
-<?php include("function/function.php");?>
+<?php include("../function/function.php");?>
 <?php arriba();?>
 
 
